@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ifoo/static/css/main.073c9b0a.css",
+    "main.js": "/Ifoo/static/js/main.cafe1ba9.js",
+    "index.html": "/Ifoo/index.html",
+    "main.073c9b0a.css.map": "/Ifoo/static/css/main.073c9b0a.css.map",
+    "main.cafe1ba9.js.map": "/Ifoo/static/js/main.cafe1ba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cafe1ba9.js"
+  ]
+}
